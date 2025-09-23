@@ -1,8 +1,11 @@
 # tech-190
 weekly journal
 
-WEEK #1; 
+WEEK #1:
     Having prior experience with unity made starting the first assignment easier, but I also appriciate how easy and straight forword the youtube video is. Following it so far has made the develpment process easy and serves as a safety net thats I can always refer back to. I would say I am about half way finished with the game, coding the pipes was a struggle but I eventually managed to complete and was able to run smoothly. Using github is something new to me, I've seen and heard of it but never really used it so figuring out the features it has was new but fun. Reading the textbook assigned is definitely different than typical textbooks you receive from other classes, I find myself enoying it. I never really thought in depth how much effort and factors it takes to create a game. The information in the textbook will certainly help me with the development of my final game which I have been thinking about like what theme it will be, whats packs I can use but nothing confirmed.
 
-WEEK #2;
+WEEK #2:
     This week has been mainly finishing the flappy bird game and coming up with more depth idea of my game. I have completed flappy bird and will be turning it in next week before our next class. Following the youtube video made it a fun and not extremely difficult expierence. I definitly could not have donw it without the video, it was very clear and showed exactly what the person did which helped a lot. The hardest part was figuring out how the code works and coding the pipes. I also struggled in linking the different pages together and to unity which was the main reason why the pipes weren't working. Overall I have a very general understanding of how unity works, my main concern for my final game would be the coding I'm at a loss of where to start and how big I should go for my game. Although I'm not sure where to start I have been thinking of a theme, I've decided to do a 2D platformer maze/ obstacle game revolving a farmer who has lost his farm animals and they must go through barriers to reach back home (the farm).
+
+WEEK #3:
+    I have decided to change my game from the previous idea to a more geometry dash inspired game. I was researching different games and videos to progress my game and get somewhat started when i found a video explaining how to create a geomery dash like game and really liked the idea. This way I can create my own visuals and put my own creative twist to it while also followinig the video. 
